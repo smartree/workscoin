@@ -33,10 +33,10 @@
 #include <cstdint>
 #include <vector>
 
-#include "common/int-util.h"
+#include "Common/int-util.h"
 #include "crypto/hash.h"
-#include "cryptonote_config.h"
-#include "difficulty.h"
+#include "CryptoNoteConfig.h"
+#include "Difficulty.h"
 
 namespace cryptonote {
 
